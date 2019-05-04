@@ -1,3 +1,7 @@
+## 此仓库仅用补全area-data使用，使用方法。
+- 替换data文件夹下的数据
+- npm run buuld
+- 将打包好的dist文件夹下的两个文件复制到iview-area下的dist目录即可
 # iview-area
 [![npm](https://img.shields.io/npm/v/iview-area.svg)]()
 

@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import areaData from 'area-data';
+import areaData from '../../../data/data.js';
 import util from '../util';
 const levelShow = (level, code) => {
     if (level === 2) {
